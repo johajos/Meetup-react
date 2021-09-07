@@ -1,2 +1,3 @@
 # Meetup-react
- A meetup app to learn more about React
+
+A meetup app to learn more about React
